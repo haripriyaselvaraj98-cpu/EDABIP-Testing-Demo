@@ -14,3 +14,9 @@ Expected Result: Source and target record counts should match.
 Actual Result: Record counts match.
 
 Status: PASS
+
+## Test Case 2: Product Quantity Validation
+
+Expected Result: Quantity should match between source and target.
+
+Status: PASS
